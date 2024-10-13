@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.font_roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.font_poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.overlay-gradient {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 4%, #1C2635 100%);
+}
